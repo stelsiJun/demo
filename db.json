@@ -182,5 +182,8 @@
             "scale": "1",
             "matched" : 0
         }
-    ]
+    ],
+  "profile": {
+    "name": "typicode"
+  }
 }
