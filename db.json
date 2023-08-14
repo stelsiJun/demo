@@ -7,7 +7,8 @@
             "thumb": "https://s3.ap-northeast-2.amazonaws.com/stelsi.nft/stelsi/1000572/thumb.jpg",
             "usage": "R",
             "scale": "3",
-            "matched" : 1694319958
+            "matched" : 1694319958,
+            "portion" : 100
         },
         {
             "id": "1000571",
@@ -16,7 +17,8 @@
             "thumb": "https://s3.ap-northeast-2.amazonaws.com/stelsi.nft/stelsi/1000571/thumb.jpg",
             "usage": "R",
             "scale": "3",
-            "matched" : 1694319958
+            "matched" : 1694319958,
+            "portion" : 110
         },
         {
             "id": "1000570",
@@ -25,7 +27,8 @@
             "thumb": "https://s3.ap-northeast-2.amazonaws.com/stelsi.nft/stelsi/1000570/thumb.jpg",
             "usage": "R",
             "scale": "3",
-            "matched" : 1694319958
+            "matched" : 1694319958,
+            "portion" : 120
         },
         {
             "id": "1000569",
@@ -34,7 +37,8 @@
             "thumb": "https://s3.ap-northeast-2.amazonaws.com/stelsi.nft/stelsi/1000569/thumb.jpg",
             "usage": "R",
             "scale": "3",
-            "matched" : 0
+            "matched" : 0,
+            "portion" : 130
         },
         {
             "id": "1000568",
@@ -43,7 +47,8 @@
             "thumb": "https://s3.ap-northeast-2.amazonaws.com/stelsi.nft/stelsi/1000568/thumb.jpg",
             "usage": "R",
             "scale": "3",
-            "matched" : 0
+            "matched" : 0,
+            "portion" : 150
         },
         {
             "id": "1000567",
@@ -52,7 +57,8 @@
             "thumb": "https://s3.ap-northeast-2.amazonaws.com/stelsi.nft/stelsi/1000567/thumb.jpg",
             "usage": "R",
             "scale": "2",
-            "matched" : 0
+            "matched" : 0,
+            "portion" : 140
         },
         {
             "id": "1000566",
@@ -61,7 +67,8 @@
             "thumb": "https://s3.ap-northeast-2.amazonaws.com/stelsi.nft/stelsi/1000566/thumb.jpg",
             "usage": "R",
             "scale": "2",
-            "matched" : 0
+            "matched" : 0,
+            "portion" : 160
         },
         {
             "id": "1000565",
@@ -70,7 +77,8 @@
             "thumb": "https://s3.ap-northeast-2.amazonaws.com/stelsi.nft/stelsi/1000565/thumb.jpg",
             "usage": "R",
             "scale": "2",
-            "matched" : 0
+            "matched" : 0,
+            "portion" : 170
         },
         {
             "id": "1000564",
@@ -79,7 +87,8 @@
             "thumb": "https://s3.ap-northeast-2.amazonaws.com/stelsi.nft/stelsi/1000564/thumb.jpg",
             "usage": "R",
             "scale": "2",
-            "matched" : 0
+            "matched" : 0,
+            "portion" : 180
         },
         {
             "id": "1000563",
@@ -88,7 +97,8 @@
             "thumb": "https://s3.ap-northeast-2.amazonaws.com/stelsi.nft/stelsi/1000563/thumb.jpg",
             "usage": "R",
             "scale": "2",
-            "matched" : 0
+            "matched" : 0,
+            "portion" : 190
         },
         {
             "id": "1000562",
@@ -97,7 +107,8 @@
             "thumb": "https://s3.ap-northeast-2.amazonaws.com/stelsi.nft/stelsi/1000562/thumb.jpg",
             "usage": "R",
             "scale": "2",
-            "matched" : 0
+            "matched" : 0,
+            "portion" : 200
         },
         {
             "id": "1000561",
@@ -106,7 +117,8 @@
             "thumb": "https://s3.ap-northeast-2.amazonaws.com/stelsi.nft/stelsi/1000561/thumb.jpg",
             "usage": "R",
             "scale": "2",
-            "matched" : 0
+            "matched" : 0,
+            "portion" : 210
         },
         {
             "id": "1000560",
@@ -115,7 +127,8 @@
             "thumb": "https://s3.ap-northeast-2.amazonaws.com/stelsi.nft/stelsi/1000560/thumb.jpg",
             "usage": "R",
             "scale": "2",
-            "matched" : 0
+            "matched" : 0,
+            "portion" : 220
         },
         {
             "id": "1000559",
@@ -124,7 +137,8 @@
             "thumb": "https://s3.ap-northeast-2.amazonaws.com/stelsi.nft/stelsi/1000559/thumb.jpg",
             "usage": "R",
             "scale": "2",
-            "matched" : 0
+            "matched" : 0,
+            "portion" : 230
         },
         {
             "id": "1000558",
@@ -133,7 +147,8 @@
             "thumb": "https://s3.ap-northeast-2.amazonaws.com/stelsi.nft/stelsi/1000558/thumb.jpg",
             "usage": "R",
             "scale": "2",
-            "matched" : 0
+            "matched" : 0,
+            "portion" : 240
         },
         {
             "id": "1000557",
@@ -142,7 +157,8 @@
             "thumb": "https://s3.ap-northeast-2.amazonaws.com/stelsi.nft/stelsi/1000557/thumb.jpg",
             "usage": "R",
             "scale": "1",
-            "matched" : 0
+            "matched" : 0,
+            "portion" : 250
         },
         {
             "id": "1000556",
@@ -151,7 +167,8 @@
             "thumb": "https://s3.ap-northeast-2.amazonaws.com/stelsi.nft/stelsi/1000556/thumb.jpg",
             "usage": "R",
             "scale": "1",
-            "matched" : 0
+            "matched" : 0,
+            "portion" : 260
         },
         {
             "id": "1000555",
@@ -160,7 +177,8 @@
             "thumb": "https://s3.ap-northeast-2.amazonaws.com/stelsi.nft/stelsi/1000555/thumb.jpg",
             "usage": "R",
             "scale": "1",
-            "matched" : 0
+            "matched" : 0,
+            "portion" : 270
         },
         {
             "id": "1000554",
@@ -169,7 +187,8 @@
             "thumb": "https://s3.ap-northeast-2.amazonaws.com/stelsi.nft/stelsi/1000554/thumb.jpg",
             "usage": "R",
             "scale": "1",
-            "matched" : 0
+            "matched" : 0,
+            "portion" : 290
         },
         {
             "id": "1000553",
@@ -178,7 +197,8 @@
             "thumb": "https://s3.ap-northeast-2.amazonaws.com/stelsi.nft/stelsi/1000553/thumb.jpg",
             "usage": "R",
             "scale": "1",
-            "matched" : 0
+            "matched" : 0,
+            "portion" : 280
         }
     ],
     "comments": [
